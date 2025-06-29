@@ -1,0 +1,19 @@
+[project]
+name = "petrocalc"
+version = "0.1.0"
+description = "Library for petroleum engineering calculations"
+authors = [
+    {name = "Your Muhammad Farzad Ali",email = "muhammad.farzad.ali@uni-weimar.de"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "petrocalc", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
