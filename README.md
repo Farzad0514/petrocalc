@@ -206,16 +206,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-This library implements correlations and methods from various petroleum engineering textbooks and industry standards, including:
-
-- "Formulas and Calculations for Petroleum Engineering" by Cenk Temizel
-- Various SPE papers and industry correlations
-- Standard petroleum engineering practices
+This library uses correlations and methods from publicly available petroleum engineering sources.
 
 ## Author
 
 **Muhammad Farzad Ali**  
-Email: muhammad.farzad.ali@gmail.com
+Email: [Muhammad Farzad Ali](mailto:muhammad.farzad.ali@gmail.com)
+
 
 ## Version
 
